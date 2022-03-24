@@ -1,0 +1,39 @@
+body {
+    background-color: #FFFFFF;
+}
+
+p {
+    color: #22343D;
+}
+
+h3 {
+    color: #22343D;
+}
+
+h1 {
+    color: #22343D;
+}
+button {
+    border: 1px solid rgb(207, 207, 207);
+}
+input {
+    background: #FFFFFF;
+    border: 1px solid #BCD0E5;
+}
+.logo_text {
+    color: #173A56;
+}
+.menu_signin {
+    color: #173A56;
+}
+.menu_signin:hover {
+    background: #02897A;
+    color: #ffff;
+}
+.menu_link {
+    color: #22343D;
+}
+
+.video_btn {
+    background-color: #FFFFFF;
+}
